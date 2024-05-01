@@ -33,6 +33,7 @@ This repo contains a list of languages that currently compile to or have their V
   - [Never](#never)
   - [Rego](#rego)</br>
   - [TypeScript](#typescript)
+  - [Uxn](#uxn)
   - [WebAssembly](#webassembly)
   - [Zig](#zig)</br>
   
@@ -663,6 +664,13 @@ This repo contains a list of languages that currently compile to or have their V
 ### <a name="typescript"></a>TypeScript <sup>[top⇈](#contents)</sup>
 > TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language.
 * See [AssemblyScript](#assemblyscript)
+
+--------------------
+
+### <a name="uxn"></a>Uxn<sup>[top⇈](#contents)</sup>
+> Uxn is a small virtual machine specfication, designed for portability and stability.
+
+* [Uxn.wasm](https://github.com/remko/uxn.wasm) - WebAssembly implementation of the Uxn virtual machine
 
 --------------------
 
