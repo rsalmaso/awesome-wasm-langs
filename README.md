@@ -40,6 +40,7 @@ This repo contains a list of languages that currently compile to or have their V
   - [Ada](#ada)
   - [Berry](#berry)
   - [C4wa](#c4wa)
+  - [Coi](#coi)
   - [Crystal](#crystal)
   - [D](#d)
   - [Eclair](#eclair)
@@ -214,6 +215,18 @@ This repo contains a list of languages that currently compile to or have their V
 > COBOL is a compiled English-like programming language designed for business use.
 > It is imperative, procedural, and object-oriented. COBOL is primarily used in business, finance, and administrative systems.
 * [Cobaul](https://github.com/cloudflare/cobaul) - toolchain used to [support COBOL in CloudFlare workers](https://blog.cloudflare.com/cloudflare-workers-now-support-cobol/)
+
+--------------------
+
+### <a name="coi"></a>Coi <sup>[top⇈](#contents)</sup>
+> Coi is a component-based language for high-performance web apps (Fast, Minimal, Type-safe) with the following features:
+> 
+> - Fine-Grained Reactivity: State changes map directly to DOM elements at compile-time. No Virtual DOM overhead.
+> - Type-Safe Components: Compile-time error checking with strictly typed parameters and state.
+> - Minimal Runtime: Tiny WASM binaries with high-performance updates for DOM, Canvas, and more.
+> - Integrated DOM & Styling: Write HTML elements and scoped CSS directly in components.
+> - View Control Flow: Declarative `<if>`, `<else>`, and `<for>` tags for conditional rendering and iteration.
+* [Coi](https://github.com/io-eric/coi) - main repository.
 
 --------------------
 
